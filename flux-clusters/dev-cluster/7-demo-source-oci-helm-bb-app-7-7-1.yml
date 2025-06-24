@@ -9,4 +9,4 @@ spec:
   secretRef:
     name: ghcr-auth
   type: oci
-  url: oci://ghcr.io/LarsO2/bb-app
+  url: oci://ghcr.io/larso2/bb-app
